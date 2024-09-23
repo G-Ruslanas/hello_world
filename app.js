@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello Cloud Computing from Ruslanas!
     </section>
   </body>
 </html>
